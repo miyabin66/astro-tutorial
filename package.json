@@ -1,0 +1,16 @@
+{
+  "name": "tutorial",
+  "type": "module",
+  "version": "0.0.1",
+  "license": "UNLICENCED",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^3.2.3"
+  }
+}
